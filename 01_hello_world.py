@@ -1,0 +1,1 @@
+print("Hello World"); # ---> This is the format to print in python
