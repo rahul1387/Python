@@ -1,10 +1,8 @@
-def compare(a,b):
-    ap = 0
-    for i in a:
-        for j in b:
-            if i>j: ap+=1
-    return ap
+def checkTranspose(a):
+    for i in range(len(a)):
+        for j in range(len(a)):
+            print(a[i][j],end=' ')
+        print()
+a = [[1,2,3],[4,5,6],[7,8,9]]
 
-a = [5,6,7];
-b = [3,6,10];
-print(compare(a,b));
+checkTranspose(a)
