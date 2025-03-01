@@ -3,7 +3,7 @@ b = "2";
 
 # print(a + b);
 
-''' A convertion of one data type into another data type is known as Cype Casting.
+''' A convertion of one data type into another data type is known as Type Casting.
  There are various functions or methods like int(), float(), str(),ord(),list(),dict(),hex(), etc.
 Tow types of typecasting :  1.Explict typeCasting (Applied by programmer)
                             2.Implict typeCasting (Applied by Python)
