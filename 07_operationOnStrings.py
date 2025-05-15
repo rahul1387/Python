@@ -5,6 +5,7 @@ mangoLen = len(fruit)
 print(mangoLen)
 
 # Print string letter by giving the ranges of indexes
+# Formula: print(var[starting index : last index - 1]) --> We don't need tu write -1 python will do it on known.
 print(fruit[0:4]) # including 0 but not 4 because it takes till n-1 limit
 
 print(fruit[1:4]) # including 1 but not 4 
