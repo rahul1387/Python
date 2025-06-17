@@ -1,1 +1,1 @@
-print("I'm Iron Man");
+print(6+6);
