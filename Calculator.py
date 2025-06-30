@@ -12,4 +12,3 @@ print("The product of two number is: " + Num1*Num2)
 print("The division of two number is: " + Num1/Num2)
 
 print("The remainder of two numbers is: " + Num1 % Num2)
-
