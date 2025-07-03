@@ -10,4 +10,4 @@ elif(timestam > "12" and timestam < "17"):
 elif(timestam > "17" and timestam < "20"):
     print("Good Evening Sir")
 elif(timestam > "20" and timestam < "24"):
-    print("Good Night Sir")
+    print("Good Night Sir") 
