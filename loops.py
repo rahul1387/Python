@@ -1,5 +1,5 @@
-name = "Mango"
+fruit = "Mango"
 
-for i in name:
+for i in fruit:
     print(i)
     
