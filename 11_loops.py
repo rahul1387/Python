@@ -15,7 +15,7 @@ for k in range(1 , 12 , 3):
     print(k)    
 
 
-# While loop
+# While loop 
 
 i = int(input("Enter the number: "))
 while(i<=38):
