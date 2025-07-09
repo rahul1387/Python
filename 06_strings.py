@@ -11,7 +11,7 @@ b = """I want eat apple
        I want to play online games
        Hey, how are you?
     """ # So in this way we can write string in multiple lines by using triple coat.
-
+ 
 # Indexing in strings   
 print(name[0]) # ---> This will print first letter of name which is 'R'.The indexing in programming starts from 0 to limit of string.   
 print(name[1]) # ---> 'a'
