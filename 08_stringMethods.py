@@ -6,7 +6,7 @@ print(a.lower()) # --> Converts to lower case.
 print(a.rstrip("!")) #---> removes special characters except letters.
 print(a.replace("Mango", "Aam")) #---> replaces the word mango with aam.
 
-# split method --> removes the given value from string and converts the string into list.
+# split method --> removes the given value from string and converts the string into list. 
 myName = "My name is Rahul"
 print(myName.split(" "))
 

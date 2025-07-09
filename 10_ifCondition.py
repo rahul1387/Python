@@ -1,5 +1,6 @@
 age = int( input("Enter your age: "))
 
+#If-Else 
 if(age>=18):
     print("You can drive!")
 else:
@@ -9,6 +10,7 @@ else:
 applePrice = int(input("Enter the apple price: "))
 budget = int(input("Enter your budget: "))
 
+# elif ladder
     
 if(budget - applePrice > 50):
         print("Alexa, add 1kg apples to the card.")
