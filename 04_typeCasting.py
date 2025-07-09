@@ -10,7 +10,7 @@ Tow types of typecasting :  1.Explict typeCasting (Applied by programmer)
                             2.Implict typeCasting (Applied by Python)
 '''       
 # Explict typeCasting                     
-print(int(a) + int(b));  # but if we add any letters in a or b and tell it to add then the error will occur and here we have converted aur string data to integer with using int function.
+print(int(a) + int(b));  # but if we add any letters in a or b and tell it to add then the error will occur and here we have converted aur string data to integer with using int function. 
 
 # Implict Typecasting
 num1 = 2;
