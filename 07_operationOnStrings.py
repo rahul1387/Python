@@ -9,7 +9,7 @@ print(mangoLen)
 # Formula: print(var[starting index : last index - 1]) --> We don't need tu write -1 python will do it on known.
 print(fruit[0:4]) # including 0 but not 4 because it takes till n-1 limit
 
-print(fruit[1:4]) # including 1 but not 4 
+print(fruit[1:4]) # including 1 but not 4  
 print(fruit[:5])
 print(fruit[0:-3])
 print(fruit[0:len(fruit)-3]) # python automatically minus the 3 by lenght of string.
