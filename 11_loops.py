@@ -12,6 +12,7 @@ for k in range(1,9):
 
 for k in range(1 , 12 , 3):
     print(k)
+    print(k)    
 
 
 # While loop
@@ -28,4 +29,5 @@ while(count > 0):
     print(count)
     count = count - 1
 else:
+    print("Inside else")
     print("Inside else")
