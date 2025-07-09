@@ -1,4 +1,4 @@
-import time
+import time # ---> importing time library.
 
 timestam = time.strftime("%H:%M:%S")
 print(timestam)
