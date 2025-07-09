@@ -11,7 +11,7 @@ for k in range(1,9):
     print(k)
 
 for k in range(1 , 12 , 3):
-    print(k)    
+    print(k)
 
 
 # While loop
