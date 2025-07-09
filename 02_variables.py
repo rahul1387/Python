@@ -2,7 +2,7 @@
 a = "Rahul"; #This is string data type
 b = 1; # This is integer type
 c = True; # This is bollean data type
-d = None; #This is none data type
+d = None; # This is none data type
 
 #Data type is used to store a value in memory.
 
