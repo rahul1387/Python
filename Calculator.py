@@ -1,4 +1,4 @@
-Num1 = input("Enter first number: ")
+Num1 = input("Enter first number: ") 
 
 Num2 = input("Enter second number: ")
 
