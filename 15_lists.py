@@ -15,7 +15,7 @@ else:
     print("No")
 
 # Same thing applies for strings as well!
-# if "Ha" in "Harry":
+# if "Ra" in "Rahul":
 #   print("Yes")
 
 # print(marks[0:7])
