@@ -15,4 +15,4 @@ print(int(a) + int(b));  # but if we add any letters in a or b and tell it to ad
 num1 = 2;
 num2 = 3.3;
 
-print(num1 + num2);
+print(num1,num2);

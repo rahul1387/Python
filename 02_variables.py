@@ -14,15 +14,16 @@ print("The type of a is" , type(a))
 
 num1 = 13; #----> int
 num2 = 1.1; #----> float
-num3 = complex(8, 2); #----> COMPLEX
+num3 = complex(8, 2) #----> COMPLEX
 print(num3)
 
-# 2nd Data type is Sequence Data: list, tuple
+# 2nd Data type is Sequence Data: list, tuple, set
 
-list1 = [8, 2.3, [-4,5], ["apple", "banana"]]; # list is ordered pair of data with elements seperated by comma.THESE ARE MUTABLE!
-print(list1);
+list1 = [8, 2.3, [-4,5], ["apple", "banana"]] # list is ordered pair of data with elements seperated by comma.THESE ARE MUTABLE!
+print(list1[3][0])
 
 
-# Tuple ---> # list is ordered pair of data with elements seperated by comma.THESE ARE IMMUTABLE!
+# Tuple ---> # tuple is ordered pair of data with elements seperated by comma.THESE ARE IMMUTABLE!
 
-tuple1 = (8, 2.3, (-4,5), ("apple", "banana"));
+tuple1 = (8, 2.3, (-4,5), ("apple", "banana"))
+print(tuple1[2][0])

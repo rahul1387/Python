@@ -14,4 +14,3 @@ print(fruit[:5])
 print(fruit[0:-3])
 print(fruit[0:len(fruit)-3]) # python automatically minus the 3 by lenght of string.
 print(fruit[-1:-3])
-
